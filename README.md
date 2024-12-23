@@ -4,6 +4,10 @@ This project aimed to analyze mainstream media coverage, specifically focusing o
 For instance, France initially expressed its strong support for Ukraine, including condemning Russia's actions in official statements. However, France continued significant purchases of Russian natural gas, suggesting a more complex position towards Russia-Ukraine war. This conflict between diplomatic statements and actions highlights the importance of examining not only official rhetoric but also concrete actions to truly understand a country's stance.
 Our project focused on monitoring and quantifying stances over time by analyzing mainstream news media coverage of diplomacy, specifically regarding Russia. By uncovering trends within media coverage, this project provided audiences with a data-driven perspective on nations' and media outlets' true stances over time.
 
+
+## **Video Link**
+https://youtu.be/C0SKBk3piyU
+
 ## **Acknowledgment**
 This is a school project from Columbia University, EECS 6893 Big Data Analytics class, Group 19 source code. 
 
@@ -19,7 +23,6 @@ This project was primarily developed by:
 
 Additionally:
 - **Zishun Shen** contributed to the CNN data scraping part, implemented in the file: `1.4_cnn_scrap.py`.
-
 
 ## **Repository Structure**
 
